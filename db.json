@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Abinash Bainik",
+      "email": "bainikabinash2000@gmail.com",
+      "phone": "9862584721",
+      "address": "Belonia, South Tripura",
+      "message": "I Love Next.js"
+    },
+    {
+      "id": "2",
+      "name": "Abinash Bainik",
+      "email": "bainikabinash2000@gmail.com",
+      "phone": "9862584721",
+      "address": "Belonia, South Tripura",
+      "message": "I Love Next.js"
+    },
+    {
+      "id": "3",
+      "name": "Suyeta Saha",
+      "email": "suyetasaha24@gmail.com",
+      "phone": "8787881396",
+      "address": "Naisingarh, Agartala",
+      "message": "hi"
+    },
+    {
+      "id": "4",
+      "name": "Niladri Majumdar",
+      "email": "majumdarniladri45@gmail.com",
+      "address": "Bishalgarh, Udaipur",
+      "phone": "7085309041",
+      "message": "I Love Vue.js"
+    },
+    {
+      "id": "5",
+      "name": "Urmila Ghosh",
+      "email": "urmi999@gmail.com",
+      "phone": "6033036587",
+      "address": "Udaipur, Udaipur Tripura",
+      "message": "I Love Node.js"
+    },
+    {
+      "id": "6",
+      "name": "Abhishek Goswami",
+      "email": "myselfabhi27@gmail.com",
+      "phone": "9863348040",
+      "address": "saraspur, North Tripura",
+      "message": "I Love JavaScript very much"
+    },
+    {
+      "id": "7",
+      "name": "Abhishek Goswami",
+      "email": "myselfabhi27@gmail.com",
+      "phone": "9863348040",
+      "address": "Saraspur, North Tripura",
+      "message": "I love js jjjjjjjj"
+    }
+  ]
+}
